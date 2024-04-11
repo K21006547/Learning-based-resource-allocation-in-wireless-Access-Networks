@@ -11,7 +11,7 @@ To operate the code, please follow these steps:
 
 3. Add mytorch.py to the Code Path: Place the mytorch.py file in the root directory of the provided code. This file contains additional functionality and experiments designed to extend the original work.
 
-R4. un the Code: To execute the code, use the following command in your terminal or command prompt:
+4. un the Code: To execute the code, use the following command in your terminal or command prompt:
 
 python mytorch.py
 
