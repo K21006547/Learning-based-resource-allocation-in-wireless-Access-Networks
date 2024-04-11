@@ -13,7 +13,7 @@ To operate the code, please follow these steps:
 
 4. un the Code: To execute the code, use the following command in your terminal or command prompt:
 
-python mytorch.py
+      python mytorch.py
 
 
 
